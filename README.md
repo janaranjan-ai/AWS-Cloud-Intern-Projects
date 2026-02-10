@@ -30,6 +30,7 @@ Linux (Amazon Linux)
 Blogging on Medium
 
 📚 Projects & Blogs
+
 1 🔹 Data Centers & Cloud Computing
 
 Understanding the foundation of cloud technologies.
